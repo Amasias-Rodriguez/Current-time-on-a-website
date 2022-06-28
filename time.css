@@ -16,8 +16,8 @@
 }
 
 .container img{
-    width: 75%;
-}
+    width: 76%;
+
 
 .container h1{
     position: absolute;
@@ -25,7 +25,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
-    font-size: 90px;
+    font-size: 92px;
     font-weight: 600;
     letter-spacing: 3px;
 }
